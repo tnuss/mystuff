@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SP100>
+<STOCK SYMBOL="GOOG-SYM">
+<Name>Google</Name>
+<Symbol>GOOG</Symbol>
+</STOCK>
+<STOCK SYMBOL="AMG-SYM">
+<Name>American Med Goal</Name>
+<Symbol>AMG</Symbol>
+</STOCK>
+</SP100>

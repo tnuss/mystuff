@@ -1,0 +1,103 @@
+
+from: "http://www.barchart.com/stocks/sp100.php?_dts1=change"
+
+<div class="xscroll">
+<table class="datatable js" id="dt1" width="100%" border="0" cellpadding="1" cellspacing="1" data-largeTable="500" data-info="symbols=AAPL,ABT,ACN,AEP,ALL,AMGN,AMZN,APA,APC,AXP,BA,BAC,BAX,BHI,BK,BMY,BRK.B,C,CAT,CL,CMCSA,COF,COP,COST,CSCO,CVS,CVX,DD,DELL,DIS,DOW,DVN,EBAY,EMC,EMR,EXC,F,FCX,FDX,GD,GE,GILD,GOOG,GS,HAL,HD,HNZ,HON,HPQ,IBM,INTC,JNJ,JPM,KO,LLY,LMT,LOW,MA,MCD,MDLZ,MDT,MET,MMM,MO,MON,MRK,MS,MSFT,NKE,NOV,NSC,NWSA,ORCL,OXY,PEP,PFE,PG,PM,QCOM,RTN,SBUX,SLB,SO,SPG,T,TGT,TWX,TXN,UNH,UNP,UPS,USB,UTX,V,VZ,WAG,WFC,WMB,WMT,XOM;columns=symbol,name,last,change,pctchange,high,low,volume,displaytime;mode=I;reqid=1" data-fieldRules="name[maxlength]=22;" data-extraFields="" data-pageSize="100"><thead>  <tr class="datatable_header" id="dt1_column">    <th rel="text" id="dt11_column_symbol" align="left" class="ds_symbol sort_none">Sym</th>
+    <th rel="text" id="dt11_column_name" align="left" class="ds_name sort_none">Name</th>
+    <th rel="price" id="dt11_column_last" align="right" class="ds_last sort_none"><abbr title="Last Price: The last trade price.">Last</abbr></th>
+    <th rel="change" id="dt11_column_change" align="right" class="ds_change sort_dn"><abbr title="Change: The difference between the current price and the previous day's settlement price.">Change</abbr></th>
+    <th rel="pctchange" id="dt11_column_pctchange" align="right" class="ds_pctchange sort_none"><abbr title="Percent Change: The difference between the current price and the previous day's settlement price expressed as a percentage.">Percent</abbr></th>
+    <th rel="price" id="dt11_column_high" align="right" class="ds_high sort_none"><abbr title="High Price: The highest trade price for the day.">High</abbr></th>
+    <th rel="price" id="dt11_column_low" align="right" class="ds_low sort_none"><abbr title="Low Price: The lowest trade price for the day.">Low</abbr></th>
+    <th rel="int" id="dt11_column_volume" align="right" class="ds_volume sort_none"><abbr title="Volume: The total number of contracts traded for the day. For weekly and monthly, this is the average daily volume.">Volume</abbr></th>
+    <th rel="time" id="dt11_column_displaytime" align="right" class="ds_displaytime sort_none"><abbr title="Last Trade Time">Time</abbr></th>
+    <th align="center" class="ds_links sort_disabled noprint">Links</th>
+  </tr>
+</thead><tbody>  <tr id="dt1_GOOG" class="">
+    <td align="left" class="ds_symbol qb_shad" nowrap="nowrap"><a href="/quotes/stocks/GOOG">GOOG</a></td>
+    <td align="left" class="ds_name qb_shad" nowrap="nowrap"><a href="/quotes/stocks/GOOG">Google Inc.</a></td>
+    <td id="dt1_GOOG_last" align="right" class="ds_last qb_shad" nowrap="nowrap">775.60</td>
+    <td id="dt1_GOOG_change" align="right" class="ds_change qb_shad" nowrap="nowrap"><span class="qb_up">+19.91</span></td>
+    <td id="dt1_GOOG_pctchange" align="right" class="ds_pctchange qb_shad" nowrap="nowrap"><span class="qb_up">+2.63%</span></td>
+    <td id="dt1_GOOG_high" align="right" class="ds_high qb_shad" nowrap="nowrap">776.60</td>
+    <td id="dt1_GOOG_low" align="right" class="ds_low qb_shad" nowrap="nowrap">758.10</td>
+    <td id="dt1_GOOG_volume" align="right" class="ds_volume qb_shad" nowrap="nowrap">3,746,100</td>
+    <td id="dt1_GOOG_displaytime" align="right" class="ds_displaytime qb_shad" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_shad noprint" nowrap><a href="/detailedquote/stocks/GOOG" title="Detailed Quote for GOOG"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/GOOG" title="Chart for GOOG"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/GOOG" title="Opinion for GOOG"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=GOOG" title="Cheat Sheet for GOOG"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+  <tr id="dt1_UNP" class="">
+    <td align="left" class="ds_symbol qb_line" nowrap="nowrap"><a href="/quotes/stocks/UNP">UNP</a></td>
+    <td align="left" class="ds_name qb_line" nowrap="nowrap"><a href="/quotes/stocks/UNP">Union Pacific Corp.</a></td>
+    <td id="dt1_UNP_last" align="right" class="ds_last qb_line" nowrap="nowrap">133.96</td>
+    <td id="dt1_UNP_change" align="right" class="ds_change qb_line" nowrap="nowrap"><span class="qb_up">+2.50</span></td>
+    <td id="dt1_UNP_pctchange" align="right" class="ds_pctchange qb_line" nowrap="nowrap"><span class="qb_up">+1.90%</span></td>
+    <td id="dt1_UNP_high" align="right" class="ds_high qb_line" nowrap="nowrap">134.14</td>
+    <td id="dt1_UNP_low" align="right" class="ds_low qb_line" nowrap="nowrap">132.38</td>
+    <td id="dt1_UNP_volume" align="right" class="ds_volume qb_line" nowrap="nowrap">2,290,700</td>
+    <td id="dt1_UNP_displaytime" align="right" class="ds_displaytime qb_line" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_line noprint" nowrap><a href="/detailedquote/stocks/UNP" title="Detailed Quote for UNP"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/UNP" title="Chart for UNP"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/UNP" title="Opinion for UNP"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=UNP" title="Cheat Sheet for UNP"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+  <tr id="dt1_CL" class="">
+    <td align="left" class="ds_symbol qb_shad" nowrap="nowrap"><a href="/quotes/stocks/CL">CL</a></td>
+    <td align="left" class="ds_name qb_shad" nowrap="nowrap"><a href="/quotes/stocks/CL">Colgate-Palmolive Comp</a></td>
+    <td id="dt1_CL_last" align="right" class="ds_last qb_shad" nowrap="nowrap">109.84</td>
+    <td id="dt1_CL_change" align="right" class="ds_change qb_shad" nowrap="nowrap"><span class="qb_up">+2.47</span></td>
+    <td id="dt1_CL_pctchange" align="right" class="ds_pctchange qb_shad" nowrap="nowrap"><span class="qb_up">+2.30%</span></td>
+    <td id="dt1_CL_high" align="right" class="ds_high qb_shad" nowrap="nowrap">109.93</td>
+    <td id="dt1_CL_low" align="right" class="ds_low 
+    
+    .....
+    
+  <tr id="dt1_OXY" class="">
+    <td align="left" class="ds_symbol qb_shad" nowrap="nowrap"><a href="/quotes/stocks/OXY">OXY</a></td>
+    <td align="left" class="ds_name qb_shad" nowrap="nowrap"><a href="/quotes/stocks/OXY">Occidental Petroleum</a></td>
+    <td id="dt1_OXY_last" align="right" class="ds_last qb_shad" nowrap="nowrap">87.68</td>
+    <td id="dt1_OXY_change" align="right" class="ds_change qb_shad" nowrap="nowrap"><span class="qb_down">-0.59</span></td>
+    <td id="dt1_OXY_pctchange" align="right" class="ds_pctchange qb_shad" nowrap="nowrap"><span class="qb_down">-0.67%</span></td>
+    <td id="dt1_OXY_high" align="right" class="ds_high qb_shad" nowrap="nowrap">88.51</td>
+    <td id="dt1_OXY_low" align="right" class="ds_low qb_shad" nowrap="nowrap">87.16</td>
+    <td id="dt1_OXY_volume" align="right" class="ds_volume qb_shad" nowrap="nowrap">7,259,000</td>
+    <td id="dt1_OXY_displaytime" align="right" class="ds_displaytime qb_shad" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_shad noprint" nowrap><a href="/detailedquote/stocks/OXY" title="Detailed Quote for OXY"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/OXY" title="Chart for OXY"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/OXY" title="Opinion for OXY"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=OXY" title="Cheat Sheet for OXY"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+  <tr id="dt1_MRK" class="">
+    <td align="left" class="ds_symbol qb_line" nowrap="nowrap"><a href="/quotes/stocks/MRK">MRK</a></td>
+    <td align="left" class="ds_name qb_line" nowrap="nowrap"><a href="/quotes/stocks/MRK">Merck & Company</a></td>
+    <td id="dt1_MRK_last" align="right" class="ds_last qb_line" nowrap="nowrap">41.83</td>
+    <td id="dt1_MRK_change" align="right" class="ds_change qb_line" nowrap="nowrap"><span class="qb_down">-1.42</span></td>
+    <td id="dt1_MRK_pctchange" align="right" class="ds_pctchange qb_line" nowrap="nowrap"><span class="qb_down">-3.28%</span></td>
+    <td id="dt1_MRK_high" align="right" class="ds_high qb_line" nowrap="nowrap">42.75</td>
+    <td id="dt1_MRK_low" align="right" class="ds_low qb_line" nowrap="nowrap">41.51</td>
+    <td id="dt1_MRK_volume" align="right" class="ds_volume qb_line" nowrap="nowrap">37,691,500</td>
+    <td id="dt1_MRK_displaytime" align="right" class="ds_displaytime qb_line" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_line noprint" nowrap><a href="/detailedquote/stocks/MRK" title="Detailed Quote for MRK"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/MRK" title="Chart for MRK"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/MRK" title="Opinion for MRK"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=MRK" title="Cheat Sheet for MRK"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+  <tr id="dt1_AAPL" class="">
+    <td align="left" class="ds_symbol qb_shad" nowrap="nowrap"><a href="/quotes/stocks/AAPL">AAPL</a></td>
+    <td align="left" class="ds_name qb_shad" nowrap="nowrap"><a href="/quotes/stocks/AAPL">Apple Inc.</a></td>
+    <td id="dt1_AAPL_last" align="right" class="ds_last qb_shad" nowrap="nowrap">453.62</td>
+    <td id="dt1_AAPL_change" align="right" class="ds_change qb_shad" nowrap="nowrap"><span class="qb_down">-1.87</span></td>
+    <td id="dt1_AAPL_pctchange" align="right" class="ds_pctchange qb_shad" nowrap="nowrap"><span class="qb_down">-0.41%</span></td>
+    <td id="dt1_AAPL_high" align="right" class="ds_high qb_shad" nowrap="nowrap">459.48</td>
+    <td id="dt1_AAPL_low" align="right" class="ds_low qb_shad" nowrap="nowrap">448.35</td>
+    <td id="dt1_AAPL_volume" align="right" class="ds_volume qb_shad" nowrap="nowrap">19,266,699</td>
+    <td id="dt1_AAPL_displaytime" align="right" class="ds_displaytime qb_shad" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_shad noprint" nowrap><a href="/detailedquote/stocks/AAPL" title="Detailed Quote for AAPL"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/AAPL" title="Chart for AAPL"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/AAPL" title="Opinion for AAPL"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=AAPL" title="Cheat Sheet for AAPL"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+  <tr id="dt1_NOV" class="">
+    <td align="left" class="ds_symbol qb_line" nowrap="nowrap"><a href="/quotes/stocks/NOV">NOV</a></td>
+    <td align="left" class="ds_name qb_line" nowrap="nowrap"><a href="/quotes/stocks/NOV">National-Oilwell</a></td>
+    <td id="dt1_NOV_last" align="right" class="ds_last qb_line" nowrap="nowrap">71.26</td>
+    <td id="dt1_NOV_change" align="right" class="ds_change qb_line" nowrap="nowrap"><span class="qb_down">-2.88</span></td>
+    <td id="dt1_NOV_pctchange" align="right" class="ds_pctchange qb_line" nowrap="nowrap"><span class="qb_down">-3.88%</span></td>
+    <td id="dt1_NOV_high" align="right" class="ds_high qb_line" nowrap="nowrap">72.98</td>
+    <td id="dt1_NOV_low" align="right" class="ds_low qb_line" nowrap="nowrap">69.52</td>
+    <td id="dt1_NOV_volume" align="right" class="ds_volume qb_line" nowrap="nowrap">12,618,400</td>
+    <td id="dt1_NOV_displaytime" align="right" class="ds_displaytime qb_line" nowrap="nowrap">02/01/13</td>
+    <td align="center" class="qb_line noprint" nowrap><a href="/detailedquote/stocks/NOV" title="Detailed Quote for NOV"><img src="/shared/images/quote_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/charts/stocks/NOV" title="Chart for NOV"><img src="/shared/images/chart_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/opinions/stocks/NOV" title="Opinion for NOV"><img src="/shared/images/opinion_icon.gif" width="12" height="10" border="0" /></a>&nbsp;<a href="/cheatsheet.php?sym=NOV" title="Cheat Sheet for NOV"><img src="/shared/images/cheatsheet_icon.gif" width="12" height="10" border="0" /></a></td>
+  </tr>
+</tbody></table>
+<div class="loading" id="ldt1"></div></div>
+</div>
+</div>
+    

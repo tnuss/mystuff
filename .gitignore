@@ -1,0 +1,14 @@
+# the local gitignore
+/tmp/
+/build/
+/logging/
+/data/testdata/testdata_bk/
+/.settings/
+/.git/
+/WebContent/WEB-INF/classes/
+/WebContent/WEB-INF/lib/
+
+#
+.project
+.classpath
+derby.log

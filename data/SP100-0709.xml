@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+<STOCK>
+<Symbol>AAPL</Symbol>
+<CompanyName>Apple Inc.</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>ABBV</Symbol>
+<CompanyName>AbbVie Inc.</CompanyName>
+<Sector>Drugs</Sector>
+</STOCK>
+<STOCK>
+<Symbol>ABT</Symbol>
+<CompanyName>Abbott Laboratories</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>ACN</Symbol>
+<CompanyName>Accenture plc</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>AGN</Symbol>
+<CompanyName>Allergan plc</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>AIG</Symbol>
+<CompanyName>American Intl. Group Inc.</CompanyName>
+<Sector>Insurance</Sector>
+</STOCK>
+<STOCK>
+<Symbol>ALL</Symbol>
+<CompanyName>Allstate Corp</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>AMGN</Symbol>
+<CompanyName>Amgen Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>AMZN</Symbol>
+<CompanyName>Amazon.com Inc</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>APC</Symbol>
+<CompanyName>Anadarko Petroleum Corp</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>AXP</Symbol>
+<CompanyName>American Express Co</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BA</Symbol>
+<CompanyName>Boeing Co</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BAC</Symbol>
+<CompanyName>Bank of America Corp</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BAX</Symbol>
+<CompanyName>Baxter Intl Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BK</Symbol>
+<CompanyName>The Bank of New York Mellon Corp</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BIIB</Symbol>
+<CompanyName>Biogen Inc</CompanyName>
+<Sector>Drugs</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BMY</Symbol>
+<CompanyName>Bristol-Myers Squibb</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>BRK/B</Symbol>
+<CompanyName>Berkshire Hathaway B</CompanyName>
+<Sector/>
+</STOCK>
+<STOCK>
+<Symbol>C</Symbol>
+<CompanyName>Citigroup Inc</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CAT</Symbol>
+<CompanyName>Caterpillar Inc</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CL</Symbol>
+<CompanyName>Colgate-Palmolive Co</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CMCSA</Symbol>
+<CompanyName>Comcast Corp</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>COF</Symbol>
+<CompanyName>Capital One Financial</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>COP</Symbol>
+<CompanyName>ConocoPhillips</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>COST</Symbol>
+<CompanyName>Costco Wholesale Corp</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CSCO</Symbol>
+<CompanyName>Cisco Systems Inc</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CVS</Symbol>
+<CompanyName>CVS Caremark Corp.</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>CVX</Symbol>
+<CompanyName>Chevron Corp</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>DD</Symbol>
+<CompanyName>"DuPont</CompanyName>
+<Sector>Materials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>DIS</Symbol>
+<CompanyName>Walt Disney Co</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>DOW</Symbol>
+<CompanyName>Dow Chemical</CompanyName>
+<Sector>Materials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>DVN</Symbol>
+<CompanyName>Devon Energy Corp</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>EBAY</Symbol>
+<CompanyName>eBay Inc.</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>EMC</Symbol>
+<CompanyName>EMC Corp</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>EMR</Symbol>
+<CompanyName>Emerson Electric Co</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>EXC</Symbol>
+<CompanyName>Exelon Corp</CompanyName>
+<Sector>Utilities</Sector>
+</STOCK>
+<STOCK>
+<Symbol>F</Symbol>
+<CompanyName>Ford Motor Co</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>FCX</Symbol>
+<CompanyName>Freeport McMoRan Copper and Gold</CompanyName>
+<Sector>Materials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>FDX</Symbol>
+<CompanyName>FedEx Corp</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GD</Symbol>
+<CompanyName>General Dynamics</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GE</Symbol>
+<CompanyName>General Electric Co</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GILD</Symbol>
+<CompanyName>Gilead Sciences Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GM</Symbol>
+<CompanyName>American General Motors</CompanyName>
+<Sector>Automobile</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GOOG</Symbol>
+<CompanyName>Google Inc</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>GS</Symbol>
+<CompanyName>Goldman Sachs Group Inc</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>HAL</Symbol>
+<CompanyName>Halliburton Co</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>HD</Symbol>
+<CompanyName>Home Depot Inc</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>HON</Symbol>
+<CompanyName>Honeywell Intl Inc</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>HPQ</Symbol>
+<CompanyName>Hewlett-Packard Co</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>IBM</Symbol>
+<CompanyName>Intl Business Machines Corp</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>INTC</Symbol>
+<CompanyName>Intel Corp</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>JNJ</Symbol>
+<CompanyName>Johnson and Johnson</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>JPM</Symbol>
+<CompanyName>JP Morgan Chase and Co</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>KO</Symbol>
+<CompanyName>Coca-Cola Co</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>LLY</Symbol>
+<CompanyName>"Lilly</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>LMT</Symbol>
+<CompanyName>Lockheed Martin</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>LOW</Symbol>
+<CompanyName>Lowe's Cos Inc</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MA</Symbol>
+<CompanyName>Mastercard Inc A</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MCD</Symbol>
+<CompanyName>McDonald's Corp</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MDLZ</Symbol>
+<CompanyName> Mondelez International Inc </CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MDT</Symbol>
+<CompanyName>Medtronic Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MET</Symbol>
+<CompanyName>Metlife Inc</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MMM</Symbol>
+<CompanyName>3M Co</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MO</Symbol>
+<CompanyName>Altria Group Inc</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MON</Symbol>
+<CompanyName>Monsanto Co.</CompanyName>
+<Sector>Materials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MRK</Symbol>
+<CompanyName>Merck and Co Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MS</Symbol>
+<CompanyName>Morgan Stanley</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>MSFT</Symbol>
+<CompanyName>Microsoft Corp</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>NKE</Symbol>
+<CompanyName>NIKE Inc B</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>NOV</Symbol>
+<CompanyName>National Oilwell Varco Inc</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>NSC</Symbol>
+<CompanyName>Norfolk Southern Corp</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>NWSA</Symbol>
+<CompanyName>News Corporation</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>ORCL</Symbol>
+<CompanyName>Oracle Corp</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>OXY</Symbol>
+<CompanyName>Occidental Petroleum</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>PEP</Symbol>
+<CompanyName>PepsiCo Inc</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>PFE</Symbol>
+<CompanyName>Pfizer Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>PG</Symbol>
+<CompanyName>Procter and Gamble</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>PM</Symbol>
+<CompanyName>Philip Morris International</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>QCOM</Symbol>
+<CompanyName>QUALCOMM Inc</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>RTN</Symbol>
+<CompanyName>Raytheon Co</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>SBUX</Symbol>
+<CompanyName>Starbucks Corp</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>SLB</Symbol>
+<CompanyName>Schlumberger Ltd</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>SO</Symbol>
+<CompanyName>Southern Co</CompanyName>
+<Sector>Utilities</Sector>
+</STOCK>
+<STOCK>
+<Symbol>SPG</Symbol>
+<CompanyName>Simon Property Group</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>T</Symbol>
+<CompanyName>ATandT Inc</CompanyName>
+<Sector>Telecommunications Services</Sector>
+</STOCK>
+<STOCK>
+<Symbol>TGT</Symbol>
+<CompanyName>Target Corp</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>TWX</Symbol>
+<CompanyName>Time Warner Inc</CompanyName>
+<Sector>Consumer Discretionary</Sector>
+</STOCK>
+<STOCK>
+<Symbol>TXN</Symbol>
+<CompanyName>Texas Instruments Inc</CompanyName>
+<Sector>Information Technology</Sector>
+</STOCK>
+<STOCK>
+<Symbol>UNH</Symbol>
+<CompanyName>Unitedhealth Group Inc</CompanyName>
+<Sector>Health Care</Sector>
+</STOCK>
+<STOCK>
+<Symbol>UNP</Symbol>
+<CompanyName>Union Pacific Corp</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>UPS</Symbol>
+<CompanyName>United Parcel Service Inc B</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>USB</Symbol>
+<CompanyName>US Bancorp</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>UTX</Symbol>
+<CompanyName>United Technologies Corp</CompanyName>
+<Sector>Industrials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>V</Symbol>
+<CompanyName>Visa Inc</CompanyName>
+<Sector>Services</Sector>
+</STOCK>
+<STOCK>
+<Symbol>VZ</Symbol>
+<CompanyName>Verizon Communications Inc</CompanyName>
+<Sector>Telecommunications Services</Sector>
+</STOCK>
+<STOCK>
+<Symbol>WAG</Symbol>
+<CompanyName>Walgreen Co</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>WFC</Symbol>
+<CompanyName>Wells Fargo and Co</CompanyName>
+<Sector>Financials</Sector>
+</STOCK>
+<STOCK>
+<Symbol>WMB</Symbol>
+<CompanyName>Williams Cos Inc</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+<STOCK>
+<Symbol>WMT</Symbol>
+<CompanyName>Wal-Mart Stores</CompanyName>
+<Sector>Consumer Staples</Sector>
+</STOCK>
+<STOCK>
+<Symbol>XOM</Symbol>
+<CompanyName>Exxon Mobil Corp</CompanyName>
+<Sector>Energy</Sector>
+</STOCK>
+</stocks>
