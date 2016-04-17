@@ -14,11 +14,11 @@ public class TstFxMultiCharts extends Application {
   @Override
   public void start(Stage primaryStage) {
 
-    Double[] data = {0.1, 0.4, 0.5, 0.7, 0.9, 1.0};
+    Double[] data = {0.1, 0.4, 0.5, 0.7, 0.9, 1.0, 1.2};
 
     LineChart<Number, Number> lc = createLineChart(data);
     LineChart<Number, Number> lc1 = createLineChart(data);
-    LineChart<Number, Number> lc2 = createLineChart(data);
+    LineChart<Number, Number> lc2 = createLineChart(data); 
 
 //	    lc1.setScaleX(.5);
 //	    lc.setScaleX(.5);
